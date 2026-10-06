@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+ 
+# User-specific files
+*.user
+*.suo
+ 
+# Visual Studio
+.vs/
+*# Logs
+*.log
+ 
+# NuGet packages
+pac*ages/
+ 
+# Publish output*publish/
+ 
+# Environment variables
+*env
+ 
+# Rider
+.idea/
+ 
+# VS*Code
+.vscode/
